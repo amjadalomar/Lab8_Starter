@@ -1,6 +1,6 @@
-module.exports = {sum};
+module.exports = { sum };
 
-function sum(n1, n2)
-{
-    return n1 + n2;
+// matches valid phone numbers
+function sum(x, y) {
+    return x+y;
 }
